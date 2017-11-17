@@ -1,0 +1,32 @@
+
+Public / Blog / Examples
+----------------------------
+
+https://blog.datproject.org/2016/02/01/dat-1-0-is-ready/
+
+    dat://a53d819bdf5c3496a2855df83daaac885686cac4b0bccfc580741b04898e3b32
+
+docs repo (https://github.com/datproject/docs)
+
+    dat://ff34725120b2f3c5bd5028e4f61d14a45a22af48a7b12126d5d588becde88a93
+    dat://8e1c7189b1b2dbb5c4ec2693787884771...
+    dat://778f8d955175c92e4ced5e4f5563f69bfec0c86cc6f670352c457943666fe639
+    dat://64375abb733a62fa301b1f124427e825d292a6d3ba25a26c9d4303a7987bec65
+    dat://96cf4957539aff4fc856fa0804e613181064ed193e5f7882c9623ec7bed38deb
+
+dat repo (https://github.com/datproject/dat)
+
+    dat://3e830227b4b2be197679ff1b573cc85e689f202c0884eb8bdb0e1fcecbd93119
+        380+ MB
+
+Older Front Page (~2017-07-27):
+
+    California Campaign Finance Data
+    dat://534fa5db12b8ea8c0d1a51a31702797b37cea60ee4dee10ec35b59bfb284e4d4
+
+    Archive of open.whitehouse.gov
+    dat://dfa1660194d17862bb2e017f9926eccc6d73493e3985f25e0b89d06204d30b39
+
+    Densho Digital Repository
+    dat://9df6c69a6337cb24d6a45f8a71364f8e58fa37608f14ca37fec743a856b3ed97
+

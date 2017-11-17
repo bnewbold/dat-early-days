@@ -1,0 +1,39 @@
+
+TODO: crawl #rotonde on twitter
+
+https://twitter.com/lectronice/status/925755690316115968
+
+    dat://c4ec420ca3fc4205002769d715962dfa96eb595853d1e856c78df1cad73d36a7
+
+https://twitter.com/IanJBattaglia/status/926655125078396928
+
+    dat://71006f800493cee73ce12f2865ddb613fa2eaf1d95444bdb07f2394b56a59ffc
+
+https://twitter.com/rosinrae/status/927387472903983104
+
+    dat://6d4a09c6f3b1bd74f4bc125cb610ff5bc69d095dcef1aa9fafa2877dfdb67ae2
+
+https://twitter.com/pfrazee/status/930980325676732416
+
+    dat://bff29526d98d6d965de3a90b3ab5c700b1cfe9397def75e4529e986122521312
+
+https://twitter.com/juerglehni/status/929407286036049920
+
+    dat://b7d51d39cb095b424d2fda0ca445edea40d585fc8e2e88cf85c058ed14610c96
+
+https://twitter.com/vheissu_/status/927420352782671872
+
+    dat://7bf0e69098ff03a340a2e82d9cc3a07bff05091e17ae35e31dcb36b54ed438ad
+
+https://twitter.com/neauoire/status/929260843237117952
+
+    dat://launchpad-webdesserts.hashbase.io/
+
+https://twitter.com/AlphaFlood/status/918909424818720769
+
+    dat://f7e6a92a240b365df4bc723ab8e0815f49217c2b052030a781aabfcd5a66c205
+
+https://louis.center/p2p-social-networking/
+
+    dat://2f21e3c122ef0f2555d3a99497710cd875c7b0383f998a2d37c02c042d598485
+    dat://6fd46b20841eb9652081894a16014f12e19f47b97af4ab10c093284fba611d15

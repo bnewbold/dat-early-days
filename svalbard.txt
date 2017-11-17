@@ -1,0 +1,9 @@
+
+https://medium.com/@maxogden/project-svalbard-a-metadata-vault-for-research-data-7088239177ab
+
+    "38GB Svalbard V1 release"
+    dat://84a7aa02449fd3ce30813635d1fb1c8918870ede50382b2e65a23b1d7ce9fa3b
+
+https://github.com/datproject/svalbard
+
+    de8cb55dcf2bee13b6cf86a6c4619f2368a66ffe0a0b270784bc386fcfa6ee70
